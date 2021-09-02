@@ -1,4 +1,4 @@
-module.exports = {
+var global= {
     // Keys and other mathematical constants
     KEY_ESC: 27,
     KEY_ENTER: 13,

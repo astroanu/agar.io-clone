@@ -1,4 +1,3 @@
-var global = require('./global');
 
 class ChatClient {
     constructor(params) {
@@ -219,4 +218,3 @@ class ChatClient {
     }
 }
 
-module.exports = ChatClient;
